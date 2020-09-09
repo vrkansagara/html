@@ -1,0 +1,29 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@vrkansagara/mochikit": "^1.0.1",
+    "bootstrap": "^5.0.0-alpha1",
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrkansagara/html.git"
+  },
+  "author": "Vallabh Kansagara <vrkansagara@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrkansagara/html/issues"
+  },
+  "homepage": "https://github.com/vrkansagara/html#readme",
+  "amd": {},
+  "volo": {
+    "baseUrl": "assets/js/lib"
+  }
+}
