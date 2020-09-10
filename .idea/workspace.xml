@@ -20,8 +20,336 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2e510cc-29c3-43f8-81e1-b82495ec3f69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/page1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controller/Base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controller/c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controller/c2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/model/Base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/model/m1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/model/m2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lib/print.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/lib/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/album/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/brand/bootstrap-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/brand/bootstrap-solid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/assets/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/blog/blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/carousel/carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/carousel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/checkout/form-validation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/checkout/form-validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/checkout/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cover/cover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cover/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/dashboard/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/dashboard/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/dashboard/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/floating-labels/floating-labels.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/floating-labels/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/grid/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/grid/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/masonry/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/navbar-bottom/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/navbar-fixed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/navbar-fixed/navbar-top-fixed.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/navbar-static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/navbar-static/navbar-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/navbars/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/navbars/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/offcanvas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/offcanvas/offcanvas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/offcanvas/offcanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/pricing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/pricing/pricing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/product/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/product/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sign-in/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sign-in/signin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/starter-template/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/starter-template/starter-template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sticky-footer-navbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sticky-footer-navbar/sticky-footer-navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sticky-footer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/sticky-footer/sticky-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/DOM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/DateTime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/DragAndDrop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Iter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Logging.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/LoggingPane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/MochiKit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/MockDOM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Signal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Sortable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/Visual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MochiKit/__package__.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/print.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/Changes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/MANIFEST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/META.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Async.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/DOM.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/DateTime.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/DragAndDrop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Format.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Iter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Logging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/LoggingPane.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Selector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Signal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Sortable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/VersionHistory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/Visual.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/html/MochiKit/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/js/toc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Async.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Base.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Color.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/DOM.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/DateTime.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/DragAndDrop.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Format.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Iter.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Logging.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/LoggingPane.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Position.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Selector.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Signal.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Sortable.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Style.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/VersionHistory.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/Visual.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/doc/rst/MochiKit/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/ajax_tables/ajax_tables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/ajax_tables/ajax_tables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/ajax_tables/domains.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/ajax_tables/domains.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/ajax_tables/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/color_wheel/color_wheel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/color_wheel/color_wheel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/color_wheel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/dnd_sortable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/dropmarker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/sortable2_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/sortable3_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/sortable4_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/sortable5_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/sortable_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/dnd_sortable/sortable_tree_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/draggable/draggable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/draggable/draggable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/draggable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_bigslide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_blind.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_blindslide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_combi.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_fadeappear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_grow_shrink.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_onload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_queue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_queue_limit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_scroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/effects_slide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/effects/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/interpreter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/interpreter/interpreter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/interpreter/interpreter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/key_events/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/key_events/key_events.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/key_events/key_events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/logging_pane/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/logging_pane/logging_pane.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/logging_pane/logging_pane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/mochiregexp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/mochiregexp/mochiregexp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/mochiregexp/mochiregexp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/mouse_events/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/mouse_events/mouse_events.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/mouse_events/mouse_events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/rounded_corners/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/rounded_corners/rounded_corners.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/rounded_corners/rounded_corners.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/dnd_boxes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/dnd_full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/dnd_ghost.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/dnd_hoverclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/dnd_scroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/dnd_snap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/simple_dnd/simple_dnd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/sortable_tables/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/sortable_tables/sortable_tables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/sortable_tables/sortable_tables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/SyntaxHighlighter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/Tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushCSharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushDelphi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushJScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushPhp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushPython.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushSql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushVb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shBrushXml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/lib/SyntaxHighlighter/shCore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/view-source.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/view-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/examples/view-source/view-source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/include/_img/bg_docheader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/include/_img/g_bullet.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/include/_img/g_logo_doc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/include/css/documentation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/include/css/general.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/DOM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/DateTime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/DragAndDrop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Iter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Logging.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/LoggingPane.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/MochiKit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/MockDOM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Signal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Sortable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/Visual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/lib/MochiKit/__package__.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/packed/MochiKit/MochiKit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/packed/MochiKit/__package__.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/packed/MochiKit/customize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/FakeJSAN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/SimpleTest/SimpleTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/SimpleTest/TestRunner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/SimpleTest/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/standalone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_Base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_Color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_DateTime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_DragAndDrop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_Format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_Iter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_Logging.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Async.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Async.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-DOM-Safari.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-DOM.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-DateTime.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-DragAndDrop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Format.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Iter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-JSAN.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Logging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-MochiKit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Selector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Signal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_MochiKit-Visual.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vrkansagara/mochikit/tests/test_Signal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/requirejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/requirejs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/r.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +363,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NamedScopeManager">
+    <scope name="HTML" pattern="file[html]:www//*||file[html]:www/*||file:build.js||file:index.html||file:package.json" />
+  </component>
   <component name="ProjectId" id="1gjhC7W4SrtKaeBQR3QntwHNtp3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,20 +383,45 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/dist/app/lib/handlebars/spec/vendor/require.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/app/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/app/modules" />
+      <recent name="$PROJECT_DIR$/www/app" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/www" />
+      <recent name="$PROJECT_DIR$/tools" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/app/lib" />
+      <recent name="$PROJECT_DIR$/www/assets/css" />
       <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/js" />
-    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,6 +434,7 @@
       <workItem from="1598633780386" duration="657000" />
       <workItem from="1598654390097" duration="57000" />
       <workItem from="1599671572451" duration="2129000" />
+      <workItem from="1599715329720" duration="19375000" />
     </task>
     <servers />
   </component>
@@ -95,17 +454,63 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="317" y="172" width="513" height="400" key="#Scopes" timestamp="1599747747540">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="317" y="172" width="513" height="400" key="#Scopes/0.27.1440.873@0.27.1440.873" timestamp="1599747747540" />
+    <state x="381" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599739627364">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="381" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599739627364" />
+    <state x="421" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599719182493">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="421" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599719182493" />
+    <state x="471" y="139" key="FileChooserDialogImpl" timestamp="1599719100689">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="471" y="139" key="FileChooserDialogImpl/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599719100689" />
+    <state width="1394" height="219" key="GridCell.Tab.0.bottom" timestamp="1599747477773">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.bottom/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599734760849" />
+    <state width="1394" height="219" key="GridCell.Tab.0.bottom/0.27.1440.873@0.27.1440.873" timestamp="1599747477773" />
+    <state width="1394" height="219" key="GridCell.Tab.0.center" timestamp="1599747477772">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.center/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599734760848" />
+    <state width="1394" height="219" key="GridCell.Tab.0.center/0.27.1440.873@0.27.1440.873" timestamp="1599747477772" />
+    <state width="1394" height="219" key="GridCell.Tab.0.left" timestamp="1599747477772">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.left/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599734760848" />
+    <state width="1394" height="219" key="GridCell.Tab.0.left/0.27.1440.873@0.27.1440.873" timestamp="1599747477772" />
+    <state width="1394" height="219" key="GridCell.Tab.0.right" timestamp="1599747477773">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state width="1320" height="157" key="GridCell.Tab.0.right/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599734760848" />
+    <state width="1394" height="219" key="GridCell.Tab.0.right/0.27.1440.873@0.27.1440.873" timestamp="1599747477773" />
     <state x="209" y="97" key="SettingsEditor" timestamp="1598654441733">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
     <state x="209" y="97" key="SettingsEditor/0.27.1440.873/1440.0.1024.768@0.27.1440.873" timestamp="1598654441733" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1599673645393">
-      <screen x="0" y="27" width="1440" height="873" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1599734688683">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
+    <state width="498" height="398" key="SwitcherDM/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599734688683" />
     <state width="498" height="446" key="SwitcherDM/0.27.1440.873@0.27.1440.873" timestamp="1599673645393" />
-    <state x="410" y="201" width="620" height="522" key="find.popup" timestamp="1599673698478">
+    <state x="100" y="96" width="1166" height="572" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599717122254">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="100" y="96" width="1166" height="572" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599717122254" />
+    <state x="281" y="171" width="927" height="522" key="find.popup" timestamp="1599748020548">
       <screen x="0" y="27" width="1440" height="873" />
     </state>
-    <state x="410" y="201" width="620" height="522" key="find.popup/0.27.1440.873@0.27.1440.873" timestamp="1599673698478" />
+    <state x="389" y="172" width="589" height="522" key="find.popup/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599742202393" />
+    <state x="281" y="171" width="927" height="522" key="find.popup/0.27.1440.873@0.27.1440.873" timestamp="1599748020548" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599740200884">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.24.1366.744/1366.0.1366.768@0.24.1366.744" timestamp="1599740200884" />
   </component>
 </project>

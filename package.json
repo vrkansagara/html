@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@vrkansagara/mochikit": "^1.0.1",
     "bootstrap": "^5.0.0-alpha1",
-    "requirejs": "^2.3.6"
+    "mustache": "^4.0.1",
+    "requirejs": "^2.3.6",
+    "text": "github:requirejs/text"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node r.js -o build.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +26,14 @@
   "homepage": "https://github.com/vrkansagara/html#readme",
   "amd": {},
   "volo": {
-    "baseUrl": "assets/js/lib"
+    "baseUrl": "www/lib",
+    "dependencies": {
+      "backbone": "github:jashkenas/backbone/1.4.0",
+      "underscore": "github:jashkenas/underscore/1.11.0",
+      "require": "github:requirejs/requirejs/2.3.6",
+      "domready": "github:ded/domready/v1.0.8",
+      "handlebars": "github:handlebars-lang/handlebars.js/v4.7.6",
+      "text": "github:requirejs/text/2.0.16"
+    }
   }
 }
