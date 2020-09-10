@@ -21,14 +21,6 @@
       "app/Models/Base"
     ]
   },
-  {
-    name: 'pages/carousel',
-    exclude: ['main']
-  },
-  {
-    name: 'pages/nav',
-    exclude: ['main']
-  },
     //Now set up a build layer for each main layer, but exclude
     //the common one. "exclude" will exclude nested
     //the nested, built dependencies from "common". Any
@@ -40,15 +32,5 @@
     //In this example, common.js will hold jquery, so backbone
     //needs to be delayed from loading until common.js finishes.
     //That loading sequence is controlled in page1.html.
-    {
-      //module names are relative to baseUrl/paths config
-      "name": "main1",
-      exclude: ['main']
-    },
-    {
-      //module names are relative to baseUrl
-      "name": "main2",
-      exclude: ['main']
-    }
   ]
 }
