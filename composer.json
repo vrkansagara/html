@@ -1,0 +1,18 @@
+{
+    "name": "vrkansagara/html",
+    "type": "project",
+    "license": "BSD 3-Clause \"New\"",
+    "autoload": {
+        "psr-4": {
+            "Vrkansagara\\Html\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vallabh Kansagara",
+            "email": "vrkansagara@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
