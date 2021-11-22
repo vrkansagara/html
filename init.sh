@@ -17,7 +17,8 @@ fi
 #  Note		  :- Initial script for this project
 # """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-
-wget https://mochi.github.io/mochikit/dist/MochiKit-1.4.2.zip /tmp/
+cd ${SCRIPTDIR}
+wget https://mochi.github.io/mochikit/dist/MochiKit-1.4.2.zip
+wget https://github.com/twbs/bootstrap/releases/download/v5.1.3/bootstrap-5.1.3-dist.zip
 
 
