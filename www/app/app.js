@@ -1,7 +1,11 @@
 define(function (require) {
+    var utility = require('./utility');
+    utility.loadCss("assets/css/main.css")
+
     // Load any app-specific modules
     // with a relative require call,
     // like:
+
     var messages = require('./messages');
 
     // Load library/vendor modules using
@@ -15,7 +19,6 @@ define(function (require) {
 
     });
     print(messages.getHello());
-
 
     require(['Models/User', 'Router'], function(User, Router){
 

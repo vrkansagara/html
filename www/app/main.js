@@ -8,10 +8,13 @@ requirejs.config({
     urlArgs: 'ver=' +  (new Date()).getTime(),
     waitSeconds: 0,
     paths: {
+        core: 'assets/js/core',
         app: '../app',
-        MochiKit:     '../app/lib/MochiKit/MochiKit',
-        print:     '../app/lib/print',
-        mustache:     '../app/lib/mustache',
+        utility:     'utility',
+        MochiKit:     'lib/MochiKit/MochiKit',
+        print:     'lib/print',
+        mustache:     'lib/mustache',
+        jquery:     'lib/jquery.min',
         // the left side is the module ID,
         // the right side is the path to
         // the jQuery file, relative to baseUrl.
@@ -20,8 +23,14 @@ requirejs.config({
         // is using jQuery 1.9.0 located at
         // js/lib/jquery-1.9.0.js, relative to
         // the HTML page.
+        "@popperjs": 'lib/popper',
+        bootstrap: 'lib/bootstrap.min'
     },
     shim: {
+        bootstrap: {
+            deps: ['@popper','jquery']
+        },
+
         handlebars: {
             exports: 'Handlebars'
         },
@@ -30,6 +39,16 @@ requirejs.config({
     }
 });
 
+window.buzzer= {
+    colors: {
+        'blue': '#467fcf',
+    }
+};
+
 // Start loading the main app file. Put all of
 // your application logic in there.
 requirejs(['./app/app']);
+
+// requirejs.config({
+//     baseUrl: '.',
+// });

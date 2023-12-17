@@ -4,15 +4,22 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^5.0.0-alpha1",
-    "mustache": "^4.0.1",
+    "@popperjs/core": "^2.11.8",
+    "backbone": "^1.5.0",
+    "bootstrap": "^5.3.2",
+    "domready": "^1.0.8",
+    "handlebars": "^4.7.8",
+    "jquery": "^3.7.1",
+    "mustache": "^4.2.0",
+    "node-sass": "^9.0.0",
+    "npm-check-updates": "^16.14.12",
     "requirejs": "^2.3.6",
-    "text": "github:requirejs/text"
+    "text": "github:requirejs/text",
+    "underscore": "^1.13.6"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node r.js -o build.js"
+    "build": "rm -rf $(pwd)/dist && node $(pwd)/build/r.js -o $(pwd)/build/build.js"
   },
   "repository": {
     "type": "git",
@@ -26,14 +33,6 @@
   "homepage": "https://github.com/vrkansagara/html#readme",
   "amd": {},
   "volo": {
-    "baseUrl": "www/lib",
-    "dependencies": {
-      "backbone": "github:jashkenas/backbone/1.4.0",
-      "underscore": "github:jashkenas/underscore/1.11.0",
-      "require": "github:requirejs/requirejs/2.3.6",
-      "domready": "github:ded/domready/v1.0.8",
-      "handlebars": "github:handlebars-lang/handlebars.js/v4.7.6",
-      "text": "github:requirejs/text/2.0.16"
-    }
+    "baseUrl": "www/lib"
   }
 }
