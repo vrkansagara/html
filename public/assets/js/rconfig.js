@@ -18,6 +18,7 @@ requirejs.config({
     waitSeconds: 0,
     paths: {
         // Folder must follow prefix = @
+        text: 'vendor/text',
         jquery: 'vendor/jquery.min',
         utility: 'utility',
         // the left side is the module ID, the right side is the path to the jQuery file, relative to baseUrl. Also,
@@ -44,9 +45,9 @@ window.buzzer = {
     }
 };
 
-// Start loading the main app file. Put all of
-// your application logic in there.
-requirejs(['app']);
+// // Start loading the main app file. Put all of
+// // your application logic in there.
+// requirejs(['app']);
 
 // requirejs.config({
 //     baseUrl: '.',
