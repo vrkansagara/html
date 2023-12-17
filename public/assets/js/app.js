@@ -12,8 +12,8 @@ define(function (require) {
     // full IDs, like:
     var print = require('print');
 
-    var $ = require('MochiKit');
-    require(['./modules/MyMath'], function(MyMath){
+    var $ = require('vendor/MochiKit/MochiKit');
+    require(['modules/MyMath'], function(MyMath){
 
         console.log("MyMath sume is ",MyMath.add(1, 2));
 
@@ -21,14 +21,17 @@ define(function (require) {
     print(messages.getHello());
 
     require(['Models/User', 'Router'], function(User, Router){
-
         var users = [
             // new User('Barney'),
         ];
-
         localStorage.users = JSON.stringify(users);
 
         Router.startRouting();
     });
 
+    var requireConfig = requirejs.s.contexts._.config;
+    console.log("theme.js config = ", requireConfig);
+
+    var spinner = require('components/messages/spinner');
+    spinner.showAjaxLoader('#container');
 });

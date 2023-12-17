@@ -19,7 +19,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf $(pwd)/dist && node $(pwd)/build/r.js -o $(pwd)/build/build.js"
+    "build": "rm -rf $(pwd)/dist && node $(pwd)/build/r.js -o $(pwd)/build/rbuild.js"
   },
   "repository": {
     "type": "git",

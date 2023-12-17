@@ -20,185 +20,294 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2e510cc-29c3-43f8-81e1-b82495ec3f69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/init.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/app/lib/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/app/lib/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/app/lib/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/app/utility.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/rconfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/utility.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/data.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/data.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/event-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/event-handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/event-handler.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/event-handler.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/manipulator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/manipulator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/manipulator.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/manipulator.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/polyfill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/polyfill.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/selector-engine.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/selector-engine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/selector-engine.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dom/selector-engine.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/toast.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/toast.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/toast.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/alert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/carousel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/collapse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/event-handler.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/event-handler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/manipulator.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/manipulator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/polyfill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/selector-engine.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dom/selector-engine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/popover.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/scrollspy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/scrollspy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/toast.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tooltip.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/util/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/util/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/src/util/sanitizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/util/sanitizer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_breadcrumb.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_button-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_close.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_close.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_containers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_containers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_functions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_helpers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_helpers.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_images.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_popover.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_popover.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_progress.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_progress.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_root.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_root.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_spinners.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_spinners.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_toasts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_toasts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tooltip.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_transitions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_transitions.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_type.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_type.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-check.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-check.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-control.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-control.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-file.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-range.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-range.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-select.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_form-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_input-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_labels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_labels.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_validation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/forms/_validation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_colored-links.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_colored-links.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_embed.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_position.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_position.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_screenreaders.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_stretched-link.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_stretched-link.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_text-truncation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/helpers/_text-truncation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_caret.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_container.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_deprecate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_image.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_resize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_table-variants.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_table-variants.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_transition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_api.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_api.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/bootstrap/scss/vendor/_rfs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/requirejs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/requirejs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/requirejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/requirejs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/requirejs/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/requirejs/require.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/rbuild.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/r.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/r.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/r.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/r.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/app/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/app/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Controllers/AddController.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Controllers/AddController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Controllers/Base.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Controllers/Base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Controllers/ListController.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Controllers/ListController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Controllers/c1.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Controllers/c1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Controllers/c2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Controllers/c2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Models/Base.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Models/Base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Models/m1.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Models/m1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Models/m2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Models/m2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/TreeMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/TreeMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/acmebase-banner-page.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/acmebase-banner-page.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/acmebase.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/acmebase.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/dir.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/dir.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/go.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/go.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/history.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/history.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/file.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/file.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/gif.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/gif.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/html.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/html.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/jpeg.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/jpeg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/minus-folder-open.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/minus-folder-open.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/minus.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/minus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/page.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/plus-folder-closed.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/plus-folder-closed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/txt.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/txt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/icons/zip.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/icons/zip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/test.zip" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/test.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/TreeMenu/top.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/TreeMenu/top.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Views/AddView.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Views/AddView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/Views/ListView.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/Views/ListView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/js/page1.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/js/page1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/js/page2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/js/page2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/Math.uuid.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/Math.uuid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Async.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Base.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Color.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Color.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/DOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/DOM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/DateTime.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/DateTime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/DragAndDrop.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/DragAndDrop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Format.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Format.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Iter.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Iter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Logging.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Logging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/LoggingPane.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/LoggingPane.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/MochiKit.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/MochiKit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/MockDOM.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/MockDOM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Position.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Position.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Selector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Signal.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Signal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Sortable.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Sortable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Style.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/Visual.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/Visual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/MochiKit/__package__.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/MochiKit/__package__.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/backbone.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/backbone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/.prettierignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/.prettierignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/FAQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/Gruntfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/README.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/README.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/dist-size.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/dist-size.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/precompile-size.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/precompile-size.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/arguments.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/arguments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/array-each.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/array-each.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/array-mustache.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/array-mustache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/complex.dust" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/complex.dust" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/complex.eco" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/complex.eco" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/complex.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/complex.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/complex.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/complex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/complex.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/complex.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/depth-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/depth-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/depth-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/depth-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/object-mustache.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/object-mustache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/object.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/partial-recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/partial-recursion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/partial.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/partial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/paths.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/string.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/string.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/subexpression.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/subexpression.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/templates/variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/templates/variables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/throughput.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/throughput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/util/benchwarmer.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/util/benchwarmer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bench/util/template-runner.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bench/util/template-runner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bin/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bin/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/bin/handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/components/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/components/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/components/component.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/components/component.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/components/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/components/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/components/handlebars-source.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/components/handlebars-source.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/components/handlebars.js.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/components/handlebars.js.nuspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/components/lib/handlebars/source.rb" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/components/lib/handlebars/source.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/components/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/multi-nodejs-test/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/multi-nodejs-test/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/multi-nodejs-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/multi-nodejs-test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/multi-nodejs-test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/multi-nodejs-test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/multi-nodejs-test/precompile-test-template.txt.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/multi-nodejs-test/precompile-test-template.txt.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/multi-nodejs-test/run-handlebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/multi-nodejs-test/run-handlebars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/multi-nodejs-test/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/multi-nodejs-test/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/run-integration-tests.sh" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/run-integration-tests.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-babel-test/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-babel-test/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-babel-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-babel-test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-babel-test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-babel-test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-babel-test/src/handlebars-inline-precompile-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-babel-test/src/handlebars-inline-precompile-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-babel-test/src/lib/assert.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-babel-test/src/lib/assert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-babel-test/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-babel-test/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-babel-test/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-babel-test/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/handlebars-default-import-pre-4.2-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/handlebars-default-import-pre-4.2-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/handlebars-default-import-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/handlebars-default-import-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/handlebars-loader-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/handlebars-loader-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/handlebars-require-vs-import-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/handlebars-require-vs-import-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/handlebars-wildcard-import-pre-4.2-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/handlebars-wildcard-import-pre-4.2-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/handlebars-wildcard-import-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/handlebars-wildcard-import-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/lib/assert.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/lib/assert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/src/test-template.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/src/test-template.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/integration-testing/webpack-test/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/integration-testing/webpack-test/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars.runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars.runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/ast.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/ast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/code-gen.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/code-gen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/compiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/compiler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/javascript-compiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/javascript-compiler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/printer.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/printer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/visitor.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/visitor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/compiler/whitespace-control.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/compiler/whitespace-control.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/decorators.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/decorators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/decorators/inline.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/decorators/inline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/exception.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/exception.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers/block-helper-missing.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers/block-helper-missing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers/each.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers/each.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers/helper-missing.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers/helper-missing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers/if.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers/if.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers/log.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers/log.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers/lookup.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers/lookup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/helpers/with.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/helpers/with.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/internal/create-new-lookup-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/internal/create-new-lookup-object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/internal/proto-access.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/internal/proto-access.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/internal/wrapHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/internal/wrapHelper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/no-conflict.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/no-conflict.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/safe-string.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/safe-string.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/handlebars/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/handlebars/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/lib/precompiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/lib/precompiler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/nyc.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/nyc.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/prettier.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/prettier.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/print-script" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/print-script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/release-notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/release-notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/runtime.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/runtime.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/amd-runtime.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/amd-runtime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/amd.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/amd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/artifacts/bom.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/artifacts/bom.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/artifacts/empty.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/artifacts/empty.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/artifacts/example_1.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/artifacts/example_1.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/artifacts/example_2.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/artifacts/example_2.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/artifacts/known.helpers.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/artifacts/known.helpers.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/artifacts/non.default.extension.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/artifacts/non.default.extension.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/artifacts/partial.template.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/artifacts/partial.template.handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/ast.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/ast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/blocks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/builtins.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/builtins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/compiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/compiler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/env/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/env/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/env/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/env/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/env/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/env/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/env/runner.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/env/runner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/env/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/env/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/bom.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/bom.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/compiled.string.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/compiled.string.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/empty.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/empty.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/empty.amd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/empty.amd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/empty.amd.namespace.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/empty.amd.namespace.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/empty.amd.simple.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/empty.amd.simple.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/empty.common.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/empty.common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/empty.name.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/empty.name.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/empty.root.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/empty.root.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/handlebar.path.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/handlebar.path.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/help.menu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/help.menu.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/namespace.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/namespace.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/non.default.extension.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/non.default.extension.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/non.empty.amd.known.helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/non.empty.amd.known.helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/partial.template.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/partial.template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/expected/source.map.amd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/expected/source.map.amd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/javascript-compiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/javascript-compiler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/partials.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/partials.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/precompiler.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/precompiler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/regressions.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/regressions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/security.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/security.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/source-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/source-map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/strict.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/strict.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/string-params.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/string-params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/subexpressions.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/subexpressions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/tmp/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/tmp/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/tokenizer.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/tokenizer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/track-ids.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/track-ids.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/umd-runtime.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/umd-runtime.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/umd.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/umd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/vendor/json2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/vendor/json2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/vendor/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/vendor/require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/visitor.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/visitor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/spec/whitespace-control.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/spec/whitespace-control.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/src/handlebars.l" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/src/handlebars.l" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/src/handlebars.yy" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/src/handlebars.yy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/src/parser-prefix.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/src/parser-prefix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/src/parser-suffix.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/src/parser-suffix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/metrics.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/metrics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/parser.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/parser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/publish-to-aws.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/publish-to-aws.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/task-tests/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/task-tests/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/task-tests/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/task-tests/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/task-tests/git.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/task-tests/git.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/task-tests/mocha.opts" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/task-tests/mocha.opts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/test-bin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/test-bin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/test-mocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/test-mocha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/util/async-grunt-task.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/util/async-grunt-task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/util/exec-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/util/exec-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/util/git.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/util/git.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/tasks/version.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/tasks/version.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/types/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/types/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/types/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/types/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/handlebars/types/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/handlebars/types/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/mustache.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/mustache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/print.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/print.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/ready.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/ready.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/require.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/text.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/lib/underscore.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/vendor/underscore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/main1.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/main1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/modules/MyMath.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/modules/MyMath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/plugins/jquery.pluginA.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/plugins/jquery.pluginA.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/plugins/jquery.pluginB.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/plugins/jquery.pluginB.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/utility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,8 +328,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="NamedScopeManager">
-    <scope name="HTML" pattern="file[html]:www//*||file[html]:www/*||file:build.js||file:index.html||file:package.json" />
+    <scope name="HTML" pattern="file[html]:public//*||file[html]:public/*||file:build.js||file:index.html||file:package.json" />
   </component>
   <component name="ProjectId" id="1gjhC7W4SrtKaeBQR3QntwHNtp3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -252,11 +369,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets/js" />
+      <recent name="$PROJECT_DIR$/public/assets" />
       <recent name="$PROJECT_DIR$/www/app/lib" />
       <recent name="$PROJECT_DIR$/build" />
       <recent name="$PROJECT_DIR$/bin" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/www/app/modules" />
     </key>
   </component>
   <component name="RunManager" selected="npm.build">
@@ -300,7 +417,7 @@
       <workItem from="1598654390097" duration="57000" />
       <workItem from="1599671572451" duration="2129000" />
       <workItem from="1599715329720" duration="19375000" />
-      <workItem from="1702797089730" duration="4275000" />
+      <workItem from="1702797089730" duration="13989000" />
     </task>
     <servers />
   </component>

@@ -30362,8 +30362,8 @@ define('build', function (require) {
         loadLib();
 
         /*
- * Create a build.js file that has the build options you want and pass that
- * build file to this file to do the build. See example.build.js for more information.
+ * Create a rbuild.js file that has the build options you want and pass that
+ * build file to this file to do the build. See example.rbuild.js for more information.
  */
 
 /*jslint strict: false, nomen: false */
