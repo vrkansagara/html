@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2e510cc-29c3-43f8-81e1-b82495ec3f69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/js/sample.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/page1.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/page1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/js/rconfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/rconfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +60,7 @@
     <ConfirmationsSetting value="1" id="Remove" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -136,7 +133,10 @@
       <workItem from="1598654390097" duration="57000" />
       <workItem from="1599671572451" duration="2129000" />
       <workItem from="1599715329720" duration="19375000" />
-      <workItem from="1702797089730" duration="18087000" />
+      <workItem from="1702797089730" duration="19401000" />
+      <workItem from="1703010346831" duration="1226000" />
+      <workItem from="1703738477391" duration="4650000" />
+      <workItem from="1703762530990" duration="1433000" />
     </task>
     <servers />
   </component>

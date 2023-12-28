@@ -25,7 +25,10 @@ requirejs.config({
         // the path should NOT include the '.js' file extension. This example is using jQuery 1.9.0 located at js/lib/jquery-1.9.0.js,
         // relative to the HTML page.
         "@popperjs": 'lib/popper',
-        bootstrap: 'lib/bootstrap.min'
+        bootstrap: 'lib/bootstrap.min',
+
+        '@MochiKit': 'vendor/MochiKit/',
+        MochiKit: 'vendor/MochiKit/MochiKit',
     },
     shim: {
         bootstrap: {
@@ -35,7 +38,141 @@ requirejs.config({
             exports: 'Handlebars'
         },
         'jquery.pluginA.js': ['jquery'],
-        'jquery.pluginB.js': ['jquery']
+        'jquery.pluginB.js': ['jquery'],
+        'MochiKit': {
+            deps: [
+                "vendor/MochiKit/Base",
+                "@MochiKit/Iter",
+                "@MochiKit/Selector",
+                "@MochiKit/Logging",
+                "@MochiKit/DateTime",
+                "@MochiKit/Format",
+                "@MochiKit/Async",
+                "@MochiKit/DOM",
+                "@MochiKit/Style",
+                "@MochiKit/LoggingPane",
+                "@MochiKit/Color",
+                "@MochiKit/Signal",
+                "@MochiKit/Position",
+                "@MochiKit/Visual",
+                "@MochiKit/DragAndDrop",
+                "@MochiKit/Sortable"
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Iter': {
+            deps: [
+                "@MochiKit/Base"
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Selector': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/DOM",
+                "@MochiKit/Iter",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Logging': {
+            deps: [
+                "@MochiKit/Base",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/DateTime': {
+            deps: [
+                "@MochiKit/Base",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Format': {
+            deps: [
+                "@MochiKit/Base",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Async': {
+            deps: [
+                "@MochiKit/Base",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/DOM': {
+            deps: [
+                "@MochiKit/Base",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Style': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/DOM",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/LoggingPane': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/Logging",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Color': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/DOM",
+                "@MochiKit/Style",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Signal': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/DOM",
+                "@MochiKit/Style",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Position': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/DOM",
+                "@MochiKit/Style",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Visual': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/DOM",
+                "@MochiKit/Style",
+                "@MochiKit/Color",
+                "@MochiKit/Position",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/DragAndDrop': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/Iter",
+                "@MochiKit/DOM",
+                "@MochiKit/Signal",
+                "@MochiKit/Visual",
+                "@MochiKit/Position",
+            ],
+            exports: 'MochiKit'
+        },
+        '@MochiKit/Sortable': {
+            deps: [
+                "@MochiKit/Base",
+                "@MochiKit/Iter",
+                "@MochiKit/DOM",
+                "@MochiKit/Position",
+                "@MochiKit/DragAndDrop",
+            ],
+            exports: 'MochiKit'
+        },
     }
 });
 
